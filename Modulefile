@@ -1,0 +1,6 @@
+name         'rfletcher-xvfb'
+version      '0.0.1'
+license      'MIT License'
+summary      'A Puppet module for Xvfb'
+description  'Install or remove Xvfb'
+project_page 'https://github.com/rfletcher/puppet-xvfb'
